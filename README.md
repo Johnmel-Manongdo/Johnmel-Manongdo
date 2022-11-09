@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Johnmel-Manongdo
+- 👋 Hi, I’m Johnmel Manongdo
 - 👀 I’m interested in coding, anime, and arts
 - 🌱 I’m currently learning web and mobile development
 - 💞️ I’m looking to collaborate on different projects to improve my skills
